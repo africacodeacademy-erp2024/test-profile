@@ -32,13 +32,14 @@ Hello! My name is [Your Name]. I am a participant in the Africa Code Academy Eng
 - **GitHub:** [Your GitHub Profile]
 
 ---
+
 # Alternate Mult-Page Template
 
 ## Sections
 
 - [About Me](about.md)
 - [Skills](skills.md)
-- [Projects](projects/)
+- [Projects](projects/index.md)
 - [Contact](contact.md)
 
 This is the main landing page for your profile. Customize it to introduce yourself and provide links to other sections.

@@ -4,10 +4,9 @@
 
 Provide an overview of your projects here.
 
-## Projects
-
+# Projects
 ### Project 1
-- Say something about project 1
+[Description of the first project]
 
 ### Project 2
-- Say something about project 2
+[Description of the second project]

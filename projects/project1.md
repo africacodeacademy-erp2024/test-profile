@@ -1,8 +1,8 @@
-# Project 1
+# Projects
 
 ## Overview
 
-Provide an overview of the project here. Explain what the project is about, its goals, and any key features.
+Provide an overview of your project here. Explain what the project is about, its goals, and any key features.
 
 ## Technologies Used
 
