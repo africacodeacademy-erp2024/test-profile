@@ -8,7 +8,7 @@ This repository is a template for creating a personal profile page hosted on Git
 2. Edit the Markdown files to add your personal information.
 3. Commit and push your changes.
 4. Enable GitHub Pages in the repository settings.
-5. Access your profile page at `https://github.com/africacodeacademy-erp2024/profile-template`.
+5. Access your profile page at `https://africacodeacademy-erp2024.github.io/test-profile/`.
 
 ## Files Included
 
