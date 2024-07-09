@@ -1,15 +1,13 @@
-# Project 1
+# My Projects
 
 ## Overview
 
-Provide an overview of the project here. Explain what the project is about, its goals, and any key features.
+Provide an overview of your projects here.
 
-## Technologies Used
+## Projects
 
-- Technology 1
-- Technology 2
-- Technology 3
+### Project 1
+- Say something about project 1
 
-## Contributions
-
-Detail your contributions to the project and any notable achievements.
+### Project 2
+- Say something about project 2
